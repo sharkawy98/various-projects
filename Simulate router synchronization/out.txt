@@ -1,0 +1,16 @@
+1(pc) arrived
+4(mobile) arrived
+3(pc) arrived and waiting
+2(mobile) arrived and waiting
+Connection 1: 1(pc) Occupied
+Connection 2: 4(mobile) Occupied
+Connection 1: 1(pc) performs online activity
+Connection 2: 4(mobile) performs online activity
+Connection 1: 1(pc) Logged out
+Connection 1: 3(pc) Occupied
+Connection 2: 4(mobile) Logged out
+Connection 2: 2(mobile) Occupied
+Connection 1: 3(pc) performs online activity
+Connection 1: 3(pc) Logged out
+Connection 2: 2(mobile) performs online activity
+Connection 2: 2(mobile) Logged out
